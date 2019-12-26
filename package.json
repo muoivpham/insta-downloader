@@ -1,0 +1,15 @@
+{
+  "name": "insta_downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insta_downloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-downloader": "^3.5.0",
+    "puppeteer": "^2.0.0"
+  }
+}
